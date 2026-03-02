@@ -113,4 +113,43 @@ Incluye **preprocesamiento**, **balanceo de clases**, **entrenamiento de modelos
 
 ---
 
-## 📂 Estructura del repo (sugerida)
+## 📂 Estructura del repo
+📁 CHALLENGE TELECOM X 2/
+├─ 📓 CHALLENGE_TELECOM_X_2.ipynb
+├─ 📄 datos_tratados.csv
+└─ 📄 README.md
+
+
+---
+
+## ✅ Resultados esperados
+
+- Un pipeline reproducible para preparar datos
+- Modelos entrenados y comparados con métricas estándar
+- Interpretación clara de variables más importantes
+- Recomendaciones de negocio basadas en evidencia
+
+---
+
+## 🛠️ Tecnologías
+
+- Python (Pandas, NumPy)
+- Scikit-learn
+- Imbalanced-learn (SMOTE)
+- Matplotlib
+
+---
+
+## 📌 Próximos pasos (mejoras)
+
+- Probar **Random Forest** / **XGBoost**
+- Ajustar umbral para priorizar recall de churn
+- Validación cruzada y tuning de hiperparámetros
+- Interpretabilidad avanzada (Permutation Importance / SHAP)
+
+---
+
+## 👤 Autor
+
+**Fabio Guerrero**  
+Proyecto académico — Telecom X (Churn Prediction)
